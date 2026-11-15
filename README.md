@@ -38,6 +38,3 @@ A Power BI portfolio project exploring complaint trends, resolution outcomes, an
 
 Open the project’s `.pbix` file in Microsoft Power BI Desktop. Use the page tabs to switch between the overview and the operations dashboard.
 
-## Data disclaimer
-
-This project uses synthetic data for academic demonstration. The dashboard illustrates an analysis workflow. Its figures do not represent actual complaint volumes or bank performance.
