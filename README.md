@@ -1,6 +1,6 @@
 # Nigerian Bank Complaints Analysis
 
-A Power BI portfolio project exploring complaint trends, resolution outcomes, and service-level agreement (SLA) performance across selected Nigerian banks using **synthetic data**.
+A project exploring complaint trends, resolution outcomes, and service-level agreement (SLA) performance across selected Nigerian banks using.
 
 **Author:** Kenechi Ofomah  
 **Tools:** Microsoft Excel, Power Query, and Power BI  
